@@ -1,2 +1,0 @@
-# RedditDataRetrieval
-Created with CodeSandbox
